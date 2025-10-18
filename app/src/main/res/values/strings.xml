@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContentProvider Test Client</string>
+    <string name="refresh">Обновить</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="hide_add">Скрыть</string>
+    <string name="save">Сохранить</string>
+    <string name="text_hint">Введите текст...</string>
+    <string name="no_records">Нет записей</string>
+    <string name="error_loading">Ошибка загрузки данных</string>
+    <string name="record_saved">Запись сохранена</string>
+    <string name="record_save_error">Ошибка сохранения</string>
+</resources>
